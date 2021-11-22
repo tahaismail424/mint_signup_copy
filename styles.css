@@ -23,6 +23,7 @@ body {
 }
 
 .sign-in {
+    float: right;
     
 }
 
@@ -187,6 +188,7 @@ input {
 .intuit-logo {
     display: block;
     margin: auto;
+    clear: right;
 }
 
 .product-list {
